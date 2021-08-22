@@ -33,7 +33,7 @@ body{
   .card {
         border: 2px solid rgb(29, 9, 3);
         background-color: #f0a968;
-        padding: 1em;
+        padding: 2em;
         height: 350px;
         width:100%;    
   }
