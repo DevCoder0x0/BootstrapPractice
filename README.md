@@ -1,5 +1,5 @@
-# BootstrapPractice
-
+# <a href="https://txlocnguyen.github.io/BootstrapPractice/">BootstrapPractice</a>
+Finished! Check it out  <a href="https://txlocnguyen.github.io/BootstrapPractice/">here</a>
 * **Objective** - Attempt to recreate the website shown below using Bootstrap.
 * **Purpose** - To establish familiarity with Bootstrap and use of Bootstrap documentation.
 * **Requirements**
