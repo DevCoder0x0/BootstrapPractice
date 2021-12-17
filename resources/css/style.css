@@ -17,6 +17,3 @@ body{
   input[type="checkbox"] { 
     transform: scale(4); 
 }
-#flexSwitchCheckDefault{
-    margin-left: 50px;
-}
