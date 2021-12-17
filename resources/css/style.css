@@ -19,3 +19,6 @@ body {
 input[type="checkbox"] {
 	transform: scale(4);
 }
+.card{
+	width: 18rem;
+}
